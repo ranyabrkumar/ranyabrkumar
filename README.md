@@ -1,13 +1,60 @@
-# Hi there 👋
+<h1 align="center">👋 Hi, I'm Ranya B R Kumar</h1>
+<h3 align="center">Technical Lead | Python Developer | DevOps Engineer | Automation Test Engineer</h3>
 
-I'm Ranya B R Kumar, a passionate DevOps Engineer from India.
+---
 
-- 🔭 I’m currently working on automating CI/CD pipelines and cloud infrastructure
-- 🌱 I’m currently learning Kubernetes and GitOps practices
-- 👯 I’m looking to collaborate on open source DevOps tools and infrastructure-as-code projects
-- 🤔 I’m looking for help with advanced cloud security and monitoring
-- 💬 Ask me about Docker, Jenkins, Terraform, AWS, and CI/CD best practices
-- 📫 How to reach me: [ranyabrkumar@gmail.com] or [LinkedIn/Twitter handle]
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love scripting and automating everyday tasks!
+## 🚀 About Me  
+I am a **Technical Lead with 14+ years of experience** combining:
 
+- 🔹 **Python Development**  
+- 🔹 **DevOps Engineering (CI/CD, Docker, Kubernetes, AWS)**  
+- 🔹 **Automation Testing (UFT, Selenium, TOSCA)**  
+- 🔹 **Framework Development & Test Automation**  
+- 🔹 **Build & Release Engineering (Jenkins, GitLab CI)**  
+
+Started my career as an **Automation Test Engineer**, automating functional, regression, and UI workflows.  
+Grew into **Python & DevOps**, building automation frameworks, deployment pipelines, and cloud-native systems.
+
+I bring strong expertise in automating **everything** — builds, deployments, environments, monitoring, and testing.
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+🐍 Python | 🐚 Shell Script | ☕ Java | ⚙️ C# | 🗄️ SQL | HTML/XML/XSLT  
+
+### **Automation Testing**
+🧪 Selenium WebDriver | 🤖 TOSCA | 🟦 UFT/QTP | Automation Framework Design
+
+### **DevOps & Cloud**
+☁️ AWS | 🐳 Docker | ☸️ Kubernetes | 🔁 Jenkins | 🦊 GitLab CI/CD  
+
+### **Infrastructure as Code**
+🌍 Terraform | ⚙️ Ansible | 🏗️ CloudFormation  
+
+### **Databases**
+🟧 MongoDB | 🟦 PostgreSQL | 🔵 Oracle | 🟥 Redis | 📈 InfluxDB  
+
+### **Monitoring**
+📊 Grafana | 🔎 Prometheus  
+
+---
+
+
+## 🌱 Currently Learning  
+- FastAPI & Python async  
+- Advanced Kubernetes workflows  
+- GitHub Actions for enterprise-grade CI/CD  
+
+---
+
+## 🤝 Connect With Me  
+📧 **ranyabrkumar@gmail.com**  
+📍 **Bengaluru, India**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/ranya-br-kumar-ba981b49/  
+
+---
+
+⭐ **Thanks for visiting!**  
+If you find my projects helpful, feel free to ⭐ star them or connect!
