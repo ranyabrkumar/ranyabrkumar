@@ -6,11 +6,11 @@
 ## 🚀 About Me  
 I am a **Technical Lead with 14+ years of experience** combining:
 
-- 🔹 **Python Development**  
-- 🔹 **DevOps Engineering (CI/CD, Docker, Kubernetes, AWS)**  
-- 🔹 **Automation Testing (UFT, Selenium, TOSCA)**  
-- 🔹 **Framework Development & Test Automation**  
-- 🔹 **Build & Release Engineering (Jenkins, GitLab CI)**  
+-  **Python Development**  
+-  **DevOps Engineering (CI/CD, Docker, Kubernetes, AWS)**  
+-  **Automation Testing (UFT, Selenium, TOSCA)**  
+-  **Framework Development & Test Automation**  
+-  **Build & Release Engineering (Jenkins, GitLab CI)**  
 
 Started my career as an **Automation Test Engineer**, automating functional, regression, and UI workflows.  
 Grew into **Python & DevOps**, building automation frameworks, deployment pipelines, and cloud-native systems.
